@@ -26,7 +26,7 @@ The following goals drive the design of JNLua:
 
 The figure below depicts the architecture of JNLua:
 
-![http://jnlua.googlecode.com/svn/wiki/Architecture.png](http://jnlua.googlecode.com/svn/wiki/Architecture.png)
+![](https://github.com/airminer/jnlua-wiki/blob/master/Architecture.png)
 
 When JNLua is bootstrapped from Java, the Java code calls the JNLua Java library. The JNLua Java library invokes the JNLua native library via JNI, and the JNLua native library calls the Lua C API. Lua code can use the JNLua Java module to access Java functionality.
 
