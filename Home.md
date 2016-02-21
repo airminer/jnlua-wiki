@@ -38,11 +38,11 @@ JNLua 0.9 is based on the Java 6 Platform (JDK 1.6) and Lua 5.1.
 
 JNLua 1.0 is based on the Java 6 Platform (JDK 1.6) and Lua 5.2.
 
-Max Raskin has done a port of JNLua for the [Android platform](https://code.google.com/p/jnlua-android).
+Max Raskin has done a port of JNLua for the [Android platform](https://github.com/airminer/jnlua-android).
 
 # Documentation #
 
-Documentation is provided in the [wiki](http://code.google.com/p/jnlua/wiki/TableOfContents?tm=6) as well as in the form of generated Javadoc (see links on the left side.)
+Documentation is provided in the [wiki](https://github.com/airminer/jnlua/wiki) as well as in the form of generated Javadoc (see links on the left side.)
 
 # License #
 

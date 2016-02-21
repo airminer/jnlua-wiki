@@ -1,6 +1,6 @@
 # Overview #
 
-Max Raskin has done a port of JNLua for the [Android platform](https://code.google.com/p/jnlua-android).
+Max Raskin has done a port of JNLua for the [Android platform](https://github.com/airminer/jnlua-android).
 
 Ignazio Di Napoli has collected the following notes for porting JNLua (and Lua) to the Android platform:
 

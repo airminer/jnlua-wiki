@@ -4,13 +4,13 @@ This page provides instructions for installing JNLua and launching the JNLua con
 
 # Installing JNLua #
 
-JNLua can be [downloaded](http://code.google.com/p/jnlua/downloads/list) from its project web site. The download directory contains three types of assemblies:
+JNLua can be [downloaded](https://github.com/airminer/jnlua/releases) from its project web site. The download directory contains three types of assemblies:
 
   * `bin`: these contain the JNLua Java library as a JAR file
   * `native`: these contain pre-built versions of the JNLua native library and the JNLua Java module for the Win32 platform (64-bit and 32-bit)
   * `src`: these contain the JNLua source code
 
-As an alternative, you [checkout](http://code.google.com/p/jnlua/source/checkout) JNLua from its repository. Tags are provided for each release.
+As an alternative, you clone JNLua from its repository. Tags are provided for each release.
 
 ## Installing the JNLua Java Library ##
 
