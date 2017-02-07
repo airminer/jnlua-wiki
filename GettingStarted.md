@@ -28,7 +28,7 @@ mvn package
 
 The JNLua proejct provides pre-built versions of the JNLua native library for the Win32 platform (64-bit and 32-bit). These files can be obtained by downloading a `native` assembly.
 
-Please see [Building the Native Library](BuildingTheNativeLibrary.md) for information on how to build the JNLua native library on other platforms, or do a different build for Win32.
+Please see [Building the Native Library](BuildingTheNativeLibrary) for information on how to build the JNLua native library on other platforms, or do a different build for Win32.
 
 ### Installation Directory ###
 

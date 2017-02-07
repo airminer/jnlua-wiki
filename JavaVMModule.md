@@ -41,7 +41,7 @@ Syntax:
 vm = javavm.create({ option }) 
 ```
 
-The function creates a Java virtual machine using the options provided and returns the virtual machine. In addition, the JNLua [Java Module](JavaModule.md) is loaded into the Lua state.
+The function creates a Java virtual machine using the options provided and returns the virtual machine. In addition, the JNLua [Java Module](JavaModule) is loaded into the Lua state.
 
 If there already is a virtual machine, the function raises an error.
 

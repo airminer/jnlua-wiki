@@ -142,8 +142,8 @@ print(tostring(error)) -- must invoke tostring() to extract message
 
 # The Java Module #
 
-The Java module provides a small but comprehensive set of Lua functions providing Java language support for Lua. For better structure, the documentation of the [Java module](JavaModule.md) is on a separate page.
+The Java module provides a small but comprehensive set of Lua functions providing Java language support for Lua. For better structure, the documentation of the [Java module](JavaModule) is on a separate page.
 
 # The Java VM Module #
 
-The Java VM module is a Lua module written in C that allows a Lua process to create a Java Virtual Machine and run Java code in that machine. For better structure, the documentation of the [Java VM module](JavaVMModule.md) is on a separate page.
+The Java VM module is a Lua module written in C that allows a Lua process to create a Java Virtual Machine and run Java code in that machine. For better structure, the documentation of the [Java VM module](JavaVMModule) is on a separate page.
